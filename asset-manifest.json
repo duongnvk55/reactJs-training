@@ -1,14 +1,16 @@
 {
-  "main.css": "/reactJs-training/static/css/main.cef2b6b1.chunk.css",
-  "main.js": "/reactJs-training/static/js/main.086919c4.chunk.js",
-  "main.js.map": "/reactJs-training/static/js/main.086919c4.chunk.js.map",
+  "main.css": "/reactJs-training/static/css/main.8b7de753.chunk.css",
+  "main.js": "/reactJs-training/static/js/main.f7e94b11.chunk.js",
+  "main.js.map": "/reactJs-training/static/js/main.f7e94b11.chunk.js.map",
   "runtime~main.js": "/reactJs-training/static/js/runtime~main.514fe3dc.js",
   "runtime~main.js.map": "/reactJs-training/static/js/runtime~main.514fe3dc.js.map",
-  "static/js/2.646f3d2a.chunk.js": "/reactJs-training/static/js/2.646f3d2a.chunk.js",
-  "static/js/2.646f3d2a.chunk.js.map": "/reactJs-training/static/js/2.646f3d2a.chunk.js.map",
+  "static/js/2.57369828.chunk.js": "/reactJs-training/static/js/2.57369828.chunk.js",
+  "static/js/2.57369828.chunk.js.map": "/reactJs-training/static/js/2.57369828.chunk.js.map",
   "index.html": "/reactJs-training/index.html",
-  "precache-manifest.5e50e5cb1b7456d89e6b2f50d54799dc.js": "/reactJs-training/precache-manifest.5e50e5cb1b7456d89e6b2f50d54799dc.js",
+  "precache-manifest.12b39eb57b97b6ee6c5c427768ddb4a0.js": "/reactJs-training/precache-manifest.12b39eb57b97b6ee6c5c427768ddb4a0.js",
   "service-worker.js": "/reactJs-training/service-worker.js",
-  "static/css/main.cef2b6b1.chunk.css.map": "/reactJs-training/static/css/main.cef2b6b1.chunk.css.map",
-  "static/media/logo.svg": "/reactJs-training/static/media/logo.5d5d9eef.svg"
+  "static/css/main.8b7de753.chunk.css.map": "/reactJs-training/static/css/main.8b7de753.chunk.css.map",
+  "static/media/base.css": "/reactJs-training/static/media/bdbg1.1fa5e457.png",
+  "static/media/logo.svg": "/reactJs-training/static/media/logo.5d5d9eef.svg",
+  "static/media/shopstack-logo-email.png": "/reactJs-training/static/media/shopstack-logo-email.67660557.png"
 }
